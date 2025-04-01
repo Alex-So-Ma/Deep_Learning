@@ -1,5 +1,5 @@
 # Deep_Learning
-Contains Jupyter Notebooks focusing on deep learning tasks and projects. It includes:
+It contains Jupyter Notebooks focusing on machine learning tasks and projects. It includes:
 
 IAF_Tareas 1-5: Assignments from the Artificial Intelligence in Physics course at the National Autonomous University of Mexico (UNAM). Assignments regarding the basics of neural networks, the use of pandas, and neural network applications.
 
